@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc">
+  <title id="title">St. Joseph Harvest Financial Management System</title>
+  <desc id="desc">Premium navy, emerald and gold banner presenting a business analysis and digital transformation case study.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C2231"/><stop offset="0.55" stop-color="#142B3B"/><stop offset="1" stop-color="#17584C"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#147D64"/><stop offset="1" stop-color="#32B28B"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#071820" flood-opacity=".36"/></filter>
+    <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M54 0H0V54" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1600" height="600" rx="30" fill="url(#bg)"/>
+  <rect width="1600" height="600" rx="30" fill="url(#grid)"/>
+  <circle cx="1460" cy="75" r="240" fill="#147D64" opacity=".12"/><circle cx="1330" cy="590" r="310" fill="#D7A64A" opacity=".06"/>
+  <g transform="translate(105,92)">
+    <rect width="245" height="38" rx="19" fill="#D7A64A" opacity=".16"/><circle cx="22" cy="19" r="5" fill="#D7A64A"/><text x="38" y="25" fill="#F3D99B" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">REAL-WORLD CASE STUDY</text>
+    <text x="0" y="116" fill="#FFFFFF" font-family="Georgia, serif" font-size="60" font-weight="700">ST. JOSEPH HARVEST</text>
+    <text x="0" y="184" fill="#FFFFFF" font-family="Georgia, serif" font-size="60" font-weight="700">FINANCIAL MANAGEMENT</text>
+    <text x="0" y="252" fill="#8FE1C8" font-family="Georgia, serif" font-size="60" font-weight="700">SYSTEM</text>
+    <rect y="287" width="94" height="5" rx="2.5" fill="#D7A64A"/>
+    <text x="0" y="343" fill="#DCE8EB" font-family="Arial, sans-serif" font-size="21" letter-spacing="1">Business Analysis  |  Process Improvement  |  Digital Transformation</text>
+    <text x="0" y="392" fill="#9FB4BC" font-family="Arial, sans-serif" font-size="18">From fragmented financial administration to structured, visible digital workflows.</text>
+  </g>
+  <g transform="translate(1180,135)" filter="url(#shadow)">
+    <rect width="295" height="335" rx="28" fill="#FAFBFC" opacity=".98"/>
+    <rect x="28" y="28" width="239" height="54" rx="14" fill="#E5F5EE"/><circle cx="58" cy="55" r="13" fill="#147D64"/><path d="M52 55h12M58 49v12" stroke="#fff" stroke-width="3" stroke-linecap="round"/><rect x="83" y="46" width="118" height="8" rx="4" fill="#17584C"/><rect x="83" y="61" width="82" height="6" rx="3" fill="#7CA99C"/>
+    <path d="M52 250V150M103 250v-62M154 250V125M205 250v-92M256 250v-130" stroke="#C7D8D4" stroke-width="2"/>
+    <rect x="38" y="204" width="28" height="46" rx="5" fill="#82CDB5"/><rect x="89" y="174" width="28" height="76" rx="5" fill="#147D64"/><rect x="140" y="151" width="28" height="99" rx="5" fill="#D7A64A"/><rect x="191" y="185" width="28" height="65" rx="5" fill="#54A98E"/><rect x="242" y="136" width="28" height="114" rx="5" fill="#17584C"/>
+    <path d="M42 181C90 163 116 169 154 132S224 122 260 101" fill="none" stroke="#D7A64A" stroke-width="5" stroke-linecap="round"/><circle cx="260" cy="101" r="7" fill="#D7A64A"/>
+    <rect x="38" y="280" width="219" height="10" rx="5" fill="#DDE7E9"/><rect x="38" y="300" width="154" height="8" rx="4" fill="#E7EEF0"/>
+  </g>
+  <rect x="0" y="574" width="1600" height="26" rx="0 0 30 30" fill="url(#accent)"/>
+</svg>
